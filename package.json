@@ -1,0 +1,19 @@
+{
+  "name": "flyvv-component-cli",
+  "version": "1.1.2",
+  "description": "",
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "mkreact": "./bin/mkreact.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "author": "flyvv",
+  "license": "ISC"
+}
